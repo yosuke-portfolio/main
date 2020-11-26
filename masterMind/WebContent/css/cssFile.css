@@ -1,0 +1,58 @@
+.rireki{
+	float:left;
+	margin-right:50px;
+	width:20%;
+	height:500px;
+}
+caption{
+	text-align:left;
+}
+
+
+.number{
+	height:150px;
+	width:11%;
+	margin-top:30px;
+	margin-right:20px;
+}
+
+form{
+	float:right;
+	margin-right:200px;
+	margin-top:70px;
+}
+
+input{
+	 width:120px;
+	 height:50px;
+}
+
+button{
+	width:120px;
+	height:50px;
+	margin-top:10px;
+}
+
+.selectTable{
+	 width:53.6%;
+	 padding-left:20px;
+}
+
+.selectTd{
+	width:100px;
+}
+
+.miniNumberTable{
+	width:54%;
+	margin-top:40px;
+}
+
+.miniNumber{
+	width:100px;
+	height:100px;
+}
+
+span{
+	font-size:200%;
+	font-weight:bold;
+}
